@@ -1,0 +1,13 @@
+{
+  "name": "Boricua",
+  "symbol": "BORI",
+  "description": "La cripto de borinquen.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/1920px-Flag_of_Puerto_Rico.svg.png",
+  "external_url": "https://ckrapps.tech",
+  "attributes": [
+    {
+      "trait_type": "MemeCoin",
+      "value": "Legendaria"
+    }
+  ]
+}
